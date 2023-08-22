@@ -1,4 +1,4 @@
-// Natalia dos Santos Gonçalves
+
 #include <iostream>
 using namespace std;
 
